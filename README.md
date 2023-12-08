@@ -1,0 +1,2 @@
+# omaricoding
+my new repository
